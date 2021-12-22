@@ -1,0 +1,1618 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 3}
+  - {fileID: 18}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 30
+    width: 1920
+    height: 947
+  m_MinSize: {x: 578, y: 342}
+  m_MaxSize: {x: 12003, y: 8042}
+  vertical: 0
+  controlID: 156
+--- !u!114 &2
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Game
+    m_Image: {fileID: -6423792434712278376, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 819
+    y: 535
+    width: 742
+    height: 464
+  m_ViewDataDictionary: {fileID: 0}
+  m_SerializedViewNames: []
+  m_SerializedViewValues: []
+  m_SerializedCustomFieldsNames: []
+  m_SerializedCustomFieldsValues: []
+  m_PlayModeViewName: GameView
+  m_ShowGizmos: 0
+  m_TargetDisplay: 0
+  m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
+  m_TargetSize: {x: 742, y: 443}
+  m_TextureFilterMode: 0
+  m_TextureHideFlags: 61
+  m_RenderIMGUI: 1
+  m_MaximizeOnPlay: 1
+  m_UseMipMap: 0
+  m_VSyncEnabled: 0
+  m_Gizmos: 0
+  m_Stats: 0
+  m_SelectedSizes: 0000000000000000000000000a000000000000000000000000000000000000000000000000000000
+  m_ZoomArea:
+    m_HRangeLocked: 0
+    m_VRangeLocked: 0
+    hZoomLockedByDefault: 0
+    vZoomLockedByDefault: 0
+    m_HBaseRangeMin: -371
+    m_HBaseRangeMax: 371
+    m_VBaseRangeMin: -221.5
+    m_VBaseRangeMax: 221.5
+    m_HAllowExceedBaseRangeMin: 1
+    m_HAllowExceedBaseRangeMax: 1
+    m_VAllowExceedBaseRangeMin: 1
+    m_VAllowExceedBaseRangeMax: 1
+    m_ScaleWithWindow: 0
+    m_HSlider: 0
+    m_VSlider: 0
+    m_IgnoreScrollWheelUntilClicked: 0
+    m_EnableMouseInput: 1
+    m_EnableSliderZoomHorizontal: 0
+    m_EnableSliderZoomVertical: 0
+    m_UniformScale: 1
+    m_UpDirection: 1
+    m_DrawArea:
+      serializedVersion: 2
+      x: 0
+      y: 21
+      width: 742
+      height: 443
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 371, y: 221.5}
+    m_MarginLeft: 0
+    m_MarginRight: 0
+    m_MarginTop: 0
+    m_MarginBottom: 0
+    m_LastShownAreaInsideMargins:
+      serializedVersion: 2
+      x: -371
+      y: -221.5
+      width: 742
+      height: 443
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 742, y: 464}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 01000001000000000000
+  m_XRRenderMode: 2
+  m_RenderTexture: {fileID: 0}
+--- !u!114 &3
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 4}
+  - {fileID: 13}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1563
+    height: 947
+  m_MinSize: {x: 303, y: 342}
+  m_MaxSize: {x: 8003, y: 8042}
+  vertical: 1
+  controlID: 134
+--- !u!114 &4
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 5}
+  - {fileID: 7}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1563
+    height: 462
+  m_MinSize: {x: 303, y: 221}
+  m_MaxSize: {x: 8003, y: 4021}
+  vertical: 0
+  controlID: 58
+--- !u!114 &5
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 815
+    height: 462
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 6}
+  m_Panes:
+  - {fileID: 6}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &6
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Hierarchy
+    m_Image: {fileID: 7966133145522015247, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 73
+    width: 814
+    height: 441
+  m_ViewDataDictionary: {fileID: 0}
+  m_SceneHierarchy:
+    m_TreeViewState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 6afbffff
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 5}
+      m_SearchString: 
+    m_ExpandedScenes: []
+    m_CurrenRootInstanceID: 0
+    m_LockTracker:
+      m_IsLocked: 0
+    m_CurrentSortingName: TransformSorting
+  m_WindowGUID: 87c31f58d11bcdd48b59b65de6c17d54
+--- !u!114 &7
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: SceneView
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 815
+    y: 0
+    width: 748
+    height: 462
+  m_MinSize: {x: 102, y: 121}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 8}
+  m_Panes:
+  - {fileID: 8}
+  - {fileID: 9}
+  - {fileID: 10}
+  - {fileID: 11}
+  - {fileID: 12}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &8
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Scene
+    m_Image: {fileID: 2593428753322112591, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 815
+    y: 73
+    width: 746
+    height: 441
+  m_ViewDataDictionary: {fileID: 0}
+  m_ShowContextualTools: 0
+  m_WindowGUID: beb0ecd54ab73734ebb4991e24015e78
+  m_Gizmos: 1
+  m_SceneIsLit: 1
+  m_SceneLighting: 1
+  m_2DMode: 0
+  m_isRotationLocked: 0
+  m_PlayAudio: 0
+  m_AudioPlay: 0
+  m_Position:
+    m_Target: {x: 1.3378925, y: 0.461628, z: 2.7217126}
+    speed: 2
+    m_Value: {x: 1.3378925, y: 0.461628, z: 2.7217126}
+  m_RenderMode: 0
+  m_CameraMode:
+    drawMode: 0
+    name: Shaded
+    section: Shading Mode
+  m_ValidateTrueMetals: 0
+  m_DoValidateTrueMetals: 0
+  m_ExposureSliderValue: 0
+  m_ExposureSliderMax: 10
+  m_SceneViewState:
+    showFog: 1
+    showMaterialUpdate: 0
+    showSkybox: 1
+    showFlares: 1
+    showImageEffects: 0
+    showParticleSystems: 1
+  m_Grid:
+    xGrid:
+      m_Fade:
+        m_Target: 0
+        speed: 2
+        m_Value: 1
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 1, y: 1}
+    yGrid:
+      m_Fade:
+        m_Target: 1
+        speed: 2
+        m_Value: 1
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 1, y: 1}
+    zGrid:
+      m_Fade:
+        m_Target: 0
+        speed: 2
+        m_Value: 1
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 1, y: 1}
+    m_ShowGrid: 1
+    m_GridAxis: 1
+    m_gridOpacity: 0.5
+  m_Rotation:
+    m_Target: {x: -0.24342123, y: 0.15831102, z: -0.04030854, w: -0.956069}
+    speed: 2
+    m_Value: {x: -0.24342015, y: 0.15831032, z: -0.04030836, w: -0.95606476}
+  m_Size:
+    m_Target: 2.1298664
+    speed: 2
+    m_Value: 2.1298664
+  m_Ortho:
+    m_Target: 0
+    speed: 2
+    m_Value: 0
+  m_CameraSettings:
+    m_Speed: 1
+    m_SpeedNormalized: 0.5
+    m_SpeedMin: 0.01
+    m_SpeedMax: 2
+    m_EasingEnabled: 1
+    m_EasingDuration: 0.4
+    m_AccelerationEnabled: 1
+    m_FieldOfViewHorizontalOrVertical: 60
+    m_NearClip: 0.03
+    m_FarClip: 10000
+    m_DynamicClip: 1
+    m_OcclusionCulling: 0
+  m_LastSceneViewRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LastSceneViewOrtho: 0
+  m_ReplacementShader: {fileID: 0}
+  m_ReplacementString: 
+  m_SceneVisActive: 1
+  m_LastLockedObject: {fileID: 0}
+  m_ViewIsLockedToObject: 0
+--- !u!114 &9
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12914, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Animator
+    m_Image: {fileID: -1673928668082335149, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 815
+    y: 73
+    width: 746
+    height: 441
+  m_ViewDataDictionary: {fileID: 0}
+  m_ViewTransforms:
+    m_KeySerializationHelper:
+    - {fileID: 1107905649089028422, guid: b60dc9aa529b314489f628aa3b57c470, type: 2}
+    - {fileID: 1107040346203751106, guid: fb53b4d3a4f06844c90da7297e9082de, type: 2}
+    - {fileID: 1107232464675883738, guid: 1b58d63f942126347865fbdde70e67c5, type: 2}
+    m_ValueSerializationHelper:
+    - e00: 0.7579479
+      e01: 0
+      e02: 0
+      e03: -113.88144
+      e10: 0
+      e11: 0.7579479
+      e12: 0
+      e13: 153.79932
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    - e00: 0.58630955
+      e01: 0
+      e02: 0
+      e03: -13.142868
+      e10: 0
+      e11: 0.58630955
+      e12: 0
+      e13: 95.46428
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    - e00: 0.39727464
+      e01: 0
+      e02: 0
+      e03: -4.863739
+      e10: 0
+      e11: 0.39727464
+      e12: 0
+      e13: 55.454926
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  m_PreviewAnimator: {fileID: 0}
+  m_AnimatorController: {fileID: 9100000, guid: b60dc9aa529b314489f628aa3b57c470,
+    type: 2}
+  m_BreadCrumbs:
+  - m_Target: {fileID: 1107905649089028422, guid: b60dc9aa529b314489f628aa3b57c470,
+      type: 2}
+    m_ScrollPosition: {x: 0, y: 0}
+  stateMachineGraph: {fileID: 0}
+  stateMachineGraphGUI: {fileID: 0}
+  blendTreeGraph: {fileID: 0}
+  blendTreeGraphGUI: {fileID: 0}
+  m_AutoLiveLink: 1
+  m_MiniTool: 0
+  m_LockTracker:
+    m_IsLocked: 0
+  m_CurrentEditor: 1
+  m_LayerEditor:
+    m_SelectedLayerIndex: 0
+--- !u!114 &10
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12071, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Animation
+    m_Image: {fileID: -8166618308981325432, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 780
+    y: 73
+    width: 715
+    height: 441
+  m_ViewDataDictionary: {fileID: 0}
+  m_LockTracker:
+    m_IsLocked: 0
+  m_LastSelectedObjectID: 14862
+--- !u!114 &11
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12111, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 400, y: 100}
+  m_MaxSize: {x: 2048, y: 2048}
+  m_TitleContent:
+    m_Text: Asset Store
+    m_Image: {fileID: -8693916549880196297, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 758
+    y: 73
+    width: 696
+    height: 441
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &12
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13401, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Test Runner
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 666
+    y: 73
+    width: 788
+    height: 437
+  m_ViewDataDictionary: {fileID: 0}
+  m_Spl:
+    ID: 267
+    splitterInitialOffset: 0
+    currentActiveSplitter: -1
+    realSizes: 130100005c000000
+    relativeSizes:
+    - 0.75
+    - 0.25
+    minSizes: 2000000020000000
+    maxSizes: 0000000000000000
+    lastTotalSize: 367
+    splitSize: 6
+    xOffset: 0
+  m_TestTypeToolbarIndex: 0
+  m_PlayModeTestListGUI:
+    m_Window: {fileID: 12}
+    newResultList:
+    - id: 1000
+      uniqueId: '[SampleProject][suite]'
+      name: SampleProject
+      fullName: SampleProject
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 
+      parentUniqueId: 
+    m_ResultText: BandiBrain_Release (5.354s)
+    m_ResultStacktrace: 
+    m_TestListState:
+      scrollPos: {x: 0, y: 57}
+      m_SelectedIDs: 947c7aad
+      m_LastClickedID: -1384481644
+      m_ExpandedIDs: b695a9867f4ed09ef9ece3ab947c7aadafa6feddbb2b13e49ebc4b02499fcb275281ee2b8359db4102644c77eda1f479ffffff7f
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    m_TestRunnerUIFilter:
+      PassedHidden: 0
+      FailedHidden: 0
+      NotRunHidden: 0
+      m_SearchString: 
+      selectedCategoryMask: 0
+      availableCategories:
+      - Uncategorized
+  m_EditModeTestListGUI:
+    m_Window: {fileID: 12}
+    newResultList:
+    - id: 1000
+      uniqueId: '[BandiBrain_Release][suite]'
+      name: BandiBrain_Release
+      fullName: BandiBrain_Release
+      resultStatus: 1
+      duration: 1.3144755
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 
+      parentUniqueId: 
+    - id: 1075
+      uniqueId: '[C:/NunapVisionPrototype/Library/ScriptAssemblies/EditModeTests.dll][suite]'
+      name: EditModeTests.dll
+      fullName: C:/NunapVisionPrototype/Library/ScriptAssemblies/EditModeTests.dll
+      resultStatus: 1
+      duration: 1.2038459
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1044
+      parentUniqueId: '[BandiBrain_Release][suite]'
+    - id: 1076
+      uniqueId: EditModeTests.dll/[Tests][suite]
+      name: Tests
+      fullName: Tests
+      resultStatus: 1
+      duration: 1.1405404
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1075
+      parentUniqueId: '[C:/NunapVisionPrototype/Library/ScriptAssemblies/EditModeTests.dll][suite]'
+    - id: 1046
+      uniqueId: EditModeTests.dll/Tests/[EditModeTests][Tests.FirebaseManagerTests][suite]
+      name: FirebaseManagerTests
+      fullName: Tests.FirebaseManagerTests
+      resultStatus: 1
+      duration: 0.2013816
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1076
+      parentUniqueId: EditModeTests.dll/[Tests][suite]
+    - id: 1053
+      uniqueId: EditModeTests.dll/Tests/FirebaseManagerTests/[EditModeTests][Tests.FirebaseManagerTests.LogInExceptionTest][suite]
+      name: LogInExceptionTest
+      fullName: Tests.FirebaseManagerTests.LogInExceptionTest
+      resultStatus: 1
+      duration: 0.1353772
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1046
+      parentUniqueId: EditModeTests.dll/Tests/[EditModeTests][Tests.FirebaseManagerTests][suite]
+    - id: 1052
+      uniqueId: EditModeTests.dll/Tests/FirebaseManagerTests/LogInExceptionTest/[EditModeTests][Tests.FirebaseManagerTests.LogInExceptionTest(Unauthorized,"REFRESH_TOKENS_REVOKED")]
+      name: LogInExceptionTest(Unauthorized,"REFRESH_TOKENS_REVOKED")
+      fullName: Tests.FirebaseManagerTests.LogInExceptionTest(Unauthorized,"REFRESH_TOKENS_REVOKED")
+      resultStatus: 1
+      duration: 0.1230703
+      messages: 
+      output: '<color=orange>LogIn NetworkException : </color> : Unauthorized
+
+        <color=orange>LogIn
+        NetworkException : </color> : REFRESH_TOKENS_REVOKED
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1053
+      parentUniqueId: EditModeTests.dll/Tests/FirebaseManagerTests/[EditModeTests][Tests.FirebaseManagerTests.LogInExceptionTest][suite]
+    - id: 1051
+      uniqueId: EditModeTests.dll/Tests/FirebaseManagerTests/[EditModeTests][Tests.FirebaseManagerTests.LogInSuccessTest]
+      name: LogInSuccessTest
+      fullName: Tests.FirebaseManagerTests.LogInSuccessTest
+      resultStatus: 1
+      duration: 0.0052202
+      messages: 
+      output: '<color=lime> LogIn Success </color>
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1046
+      parentUniqueId: EditModeTests.dll/Tests/[EditModeTests][Tests.FirebaseManagerTests][suite]
+    - id: 1050
+      uniqueId: EditModeTests.dll/Tests/FirebaseManagerTests/[EditModeTests][Tests.FirebaseManagerTests.RefreshTokenSuccessTest]
+      name: RefreshTokenSuccessTest
+      fullName: Tests.FirebaseManagerTests.RefreshTokenSuccessTest
+      resultStatus: 1
+      duration: 0.0077285
+      messages: 
+      output: '<color=lime> RefreshToken Success </color>
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1046
+      parentUniqueId: EditModeTests.dll/Tests/[EditModeTests][Tests.FirebaseManagerTests][suite]
+    - id: 1049
+      uniqueId: EditModeTests.dll/Tests/FirebaseManagerTests/[EditModeTests][Tests.FirebaseManagerTests.SignInExceptionTest][suite]
+      name: SignInExceptionTest
+      fullName: Tests.FirebaseManagerTests.SignInExceptionTest
+      resultStatus: 1
+      duration: 0.0363572
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1046
+      parentUniqueId: EditModeTests.dll/Tests/[EditModeTests][Tests.FirebaseManagerTests][suite]
+    - id: 1048
+      uniqueId: EditModeTests.dll/Tests/FirebaseManagerTests/SignInExceptionTest/[EditModeTests][Tests.FirebaseManagerTests.SignInExceptionTest(Unauthorized,"INVALID_PASSWORD")]
+      name: SignInExceptionTest(Unauthorized,"INVALID_PASSWORD")
+      fullName: Tests.FirebaseManagerTests.SignInExceptionTest(Unauthorized,"INVALID_PASSWORD")
+      resultStatus: 1
+      duration: 0.0120835
+      messages: 
+      output: '<color=orange>SignIn NetworkException : </color> : Unauthorized
+
+        <color=orange>SignIn
+        NetworkException : </color> : INVALID_PASSWORD
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1049
+      parentUniqueId: EditModeTests.dll/Tests/FirebaseManagerTests/[EditModeTests][Tests.FirebaseManagerTests.SignInExceptionTest][suite]
+    - id: 1047
+      uniqueId: EditModeTests.dll/Tests/FirebaseManagerTests/[EditModeTests][Tests.FirebaseManagerTests.SignInSuccessTest]
+      name: SignInSuccessTest
+      fullName: Tests.FirebaseManagerTests.SignInSuccessTest
+      resultStatus: 1
+      duration: 0.0032667
+      messages: 
+      output: '<color=lime> SignIn Success </color>
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1046
+      parentUniqueId: EditModeTests.dll/Tests/[EditModeTests][Tests.FirebaseManagerTests][suite]
+    - id: 1054
+      uniqueId: EditModeTests.dll/Tests/[EditModeTests][Tests.NetworkManagerTests][suite]
+      name: NetworkManagerTests
+      fullName: Tests.NetworkManagerTests
+      resultStatus: 1
+      duration: 0.0561334
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1076
+      parentUniqueId: EditModeTests.dll/[Tests][suite]
+    - id: 1066
+      uniqueId: EditModeTests.dll/Tests/NetworkManagerTests/[EditModeTests][Tests.NetworkManagerTests.ExceptionPasses][suite]
+      name: ExceptionPasses
+      fullName: Tests.NetworkManagerTests.ExceptionPasses
+      resultStatus: 1
+      duration: 0.0175448
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1054
+      parentUniqueId: EditModeTests.dll/Tests/[EditModeTests][Tests.NetworkManagerTests][suite]
+    - id: 1061
+      uniqueId: EditModeTests.dll/Tests/NetworkManagerTests/ExceptionPasses/[EditModeTests][Tests.NetworkManagerTests.ExceptionPasses("GET","get")]
+      name: ExceptionPasses("GET","get")
+      fullName: Tests.NetworkManagerTests.ExceptionPasses("GET","get")
+      resultStatus: 1
+      duration: 0.0034985
+      messages: 
+      output: 'System.Threading.Tasks.Task`1[System.String]
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: EditModeTests.dll/Tests/NetworkManagerTests/[EditModeTests][Tests.NetworkManagerTests.ExceptionPasses][suite]
+    - id: 1062
+      uniqueId: EditModeTests.dll/Tests/NetworkManagerTests/ExceptionPasses/[EditModeTests][Tests.NetworkManagerTests.ExceptionPasses("POST","post")]
+      name: ExceptionPasses("POST","post")
+      fullName: Tests.NetworkManagerTests.ExceptionPasses("POST","post")
+      resultStatus: 1
+      duration: 0.0012713
+      messages: 
+      output: 'System.Threading.Tasks.Task`1[System.String]
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: EditModeTests.dll/Tests/NetworkManagerTests/[EditModeTests][Tests.NetworkManagerTests.ExceptionPasses][suite]
+    - id: 1063
+      uniqueId: EditModeTests.dll/Tests/NetworkManagerTests/ExceptionPasses/[EditModeTests][Tests.NetworkManagerTests.ExceptionPasses("PUT","put")]
+      name: ExceptionPasses("PUT","put")
+      fullName: Tests.NetworkManagerTests.ExceptionPasses("PUT","put")
+      resultStatus: 1
+      duration: 0.0010579
+      messages: 
+      output: 'System.Threading.Tasks.Task`1[System.String]
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: EditModeTests.dll/Tests/NetworkManagerTests/[EditModeTests][Tests.NetworkManagerTests.ExceptionPasses][suite]
+    - id: 1064
+      uniqueId: EditModeTests.dll/Tests/NetworkManagerTests/ExceptionPasses/[EditModeTests][Tests.NetworkManagerTests.ExceptionPasses("PATCH","patch")]
+      name: ExceptionPasses("PATCH","patch")
+      fullName: Tests.NetworkManagerTests.ExceptionPasses("PATCH","patch")
+      resultStatus: 1
+      duration: 0.0010634
+      messages: 
+      output: 'System.Threading.Tasks.Task`1[System.String]
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: EditModeTests.dll/Tests/NetworkManagerTests/[EditModeTests][Tests.NetworkManagerTests.ExceptionPasses][suite]
+    - id: 1065
+      uniqueId: EditModeTests.dll/Tests/NetworkManagerTests/ExceptionPasses/[EditModeTests][Tests.NetworkManagerTests.ExceptionPasses("DELETE","delete")]
+      name: ExceptionPasses("DELETE","delete")
+      fullName: Tests.NetworkManagerTests.ExceptionPasses("DELETE","delete")
+      resultStatus: 1
+      duration: 0.0010254
+      messages: 
+      output: 'System.Threading.Tasks.Task`1[System.String]
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1066
+      parentUniqueId: EditModeTests.dll/Tests/NetworkManagerTests/[EditModeTests][Tests.NetworkManagerTests.ExceptionPasses][suite]
+    - id: 1067
+      uniqueId: EditModeTests.dll/Tests/NetworkManagerTests/[EditModeTests][Tests.NetworkManagerTests.NetworkExceptionTests]
+      name: NetworkExceptionTests
+      fullName: Tests.NetworkManagerTests.NetworkExceptionTests
+      resultStatus: 1
+      duration: 0.0009221
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1054
+      parentUniqueId: EditModeTests.dll/Tests/[EditModeTests][Tests.NetworkManagerTests][suite]
+    - id: 1060
+      uniqueId: EditModeTests.dll/Tests/NetworkManagerTests/[EditModeTests][Tests.NetworkManagerTests.SimplePasses][suite]
+      name: SimplePasses
+      fullName: Tests.NetworkManagerTests.SimplePasses
+      resultStatus: 1
+      duration: 0.0139853
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1054
+      parentUniqueId: EditModeTests.dll/Tests/[EditModeTests][Tests.NetworkManagerTests][suite]
+    - id: 1055
+      uniqueId: EditModeTests.dll/Tests/NetworkManagerTests/SimplePasses/[EditModeTests][Tests.NetworkManagerTests.SimplePasses("GET","get")]
+      name: SimplePasses("GET","get")
+      fullName: Tests.NetworkManagerTests.SimplePasses("GET","get")
+      resultStatus: 1
+      duration: 0.0011926
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1060
+      parentUniqueId: EditModeTests.dll/Tests/NetworkManagerTests/[EditModeTests][Tests.NetworkManagerTests.SimplePasses][suite]
+    - id: 1056
+      uniqueId: EditModeTests.dll/Tests/NetworkManagerTests/SimplePasses/[EditModeTests][Tests.NetworkManagerTests.SimplePasses("POST","post")]
+      name: SimplePasses("POST","post")
+      fullName: Tests.NetworkManagerTests.SimplePasses("POST","post")
+      resultStatus: 1
+      duration: 0.0004112
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1060
+      parentUniqueId: EditModeTests.dll/Tests/NetworkManagerTests/[EditModeTests][Tests.NetworkManagerTests.SimplePasses][suite]
+    - id: 1057
+      uniqueId: EditModeTests.dll/Tests/NetworkManagerTests/SimplePasses/[EditModeTests][Tests.NetworkManagerTests.SimplePasses("PUT","put")]
+      name: SimplePasses("PUT","put")
+      fullName: Tests.NetworkManagerTests.SimplePasses("PUT","put")
+      resultStatus: 1
+      duration: 0.0003337
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1060
+      parentUniqueId: EditModeTests.dll/Tests/NetworkManagerTests/[EditModeTests][Tests.NetworkManagerTests.SimplePasses][suite]
+    - id: 1058
+      uniqueId: EditModeTests.dll/Tests/NetworkManagerTests/SimplePasses/[EditModeTests][Tests.NetworkManagerTests.SimplePasses("PATCH","patch")]
+      name: SimplePasses("PATCH","patch")
+      fullName: Tests.NetworkManagerTests.SimplePasses("PATCH","patch")
+      resultStatus: 1
+      duration: 0.0002638
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1060
+      parentUniqueId: EditModeTests.dll/Tests/NetworkManagerTests/[EditModeTests][Tests.NetworkManagerTests.SimplePasses][suite]
+    - id: 1059
+      uniqueId: EditModeTests.dll/Tests/NetworkManagerTests/SimplePasses/[EditModeTests][Tests.NetworkManagerTests.SimplePasses("DELETE","delete")]
+      name: SimplePasses("DELETE","delete")
+      fullName: Tests.NetworkManagerTests.SimplePasses("DELETE","delete")
+      resultStatus: 1
+      duration: 0.0002439
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1060
+      parentUniqueId: EditModeTests.dll/Tests/NetworkManagerTests/[EditModeTests][Tests.NetworkManagerTests.SimplePasses][suite]
+    - id: 1068
+      uniqueId: EditModeTests.dll/Tests/[EditModeTests][Tests.TrainingTests][suite]
+      name: TrainingTests
+      fullName: Tests.TrainingTests
+      resultStatus: 1
+      duration: 0.8337536
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1076
+      parentUniqueId: EditModeTests.dll/[Tests][suite]
+    - id: 1074
+      uniqueId: EditModeTests.dll/Tests/TrainingTests/[EditModeTests][Tests.TrainingTests.Cor_MoveToQuadRant][suite]
+      name: Cor_MoveToQuadRant
+      fullName: Tests.TrainingTests.Cor_MoveToQuadRant
+      resultStatus: 1
+      duration: 0.2846925
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1068
+      parentUniqueId: EditModeTests.dll/Tests/[EditModeTests][Tests.TrainingTests][suite]
+    - id: 1070
+      uniqueId: EditModeTests.dll/Tests/TrainingTests/Cor_MoveToQuadRant/[EditModeTests][Tests.TrainingTests.Cor_MoveToQuadRant(System.Single[])]
+      name: Cor_MoveToQuadRant(System.Single[])
+      fullName: Tests.TrainingTests.Cor_MoveToQuadRant(System.Single[])
+      resultStatus: 1
+      duration: 0.0725786
+      messages: 
+      output: 'Cor_MoveToQuadRant
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1074
+      parentUniqueId: EditModeTests.dll/Tests/TrainingTests/[EditModeTests][Tests.TrainingTests.Cor_MoveToQuadRant][suite]
+    - id: 1071
+      uniqueId: EditModeTests.dll/Tests/TrainingTests/Cor_MoveToQuadRant/[EditModeTests][Tests.TrainingTests.Cor_MoveToQuadRant(System.Single[])]2
+      name: Cor_MoveToQuadRant(System.Single[])
+      fullName: Tests.TrainingTests.Cor_MoveToQuadRant(System.Single[] GeneratedTestCase2)
+      resultStatus: 1
+      duration: 0.0708578
+      messages: 
+      output: 'Cor_MoveToQuadRant
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1074
+      parentUniqueId: EditModeTests.dll/Tests/TrainingTests/[EditModeTests][Tests.TrainingTests.Cor_MoveToQuadRant][suite]
+    - id: 1072
+      uniqueId: EditModeTests.dll/Tests/TrainingTests/Cor_MoveToQuadRant/[EditModeTests][Tests.TrainingTests.Cor_MoveToQuadRant(System.Single[])]3
+      name: Cor_MoveToQuadRant(System.Single[])
+      fullName: Tests.TrainingTests.Cor_MoveToQuadRant(System.Single[] GeneratedTestCase3)
+      resultStatus: 1
+      duration: 0.0663651
+      messages: 
+      output: 'Cor_MoveToQuadRant
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1074
+      parentUniqueId: EditModeTests.dll/Tests/TrainingTests/[EditModeTests][Tests.TrainingTests.Cor_MoveToQuadRant][suite]
+    - id: 1073
+      uniqueId: EditModeTests.dll/Tests/TrainingTests/Cor_MoveToQuadRant/[EditModeTests][Tests.TrainingTests.Cor_MoveToQuadRant(System.Single[])]4
+      name: Cor_MoveToQuadRant(System.Single[])
+      fullName: Tests.TrainingTests.Cor_MoveToQuadRant(System.Single[] GeneratedTestCase4)
+      resultStatus: 1
+      duration: 0.0686274
+      messages: 
+      output: 'Cor_MoveToQuadRant
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1074
+      parentUniqueId: EditModeTests.dll/Tests/TrainingTests/[EditModeTests][Tests.TrainingTests.Cor_MoveToQuadRant][suite]
+    - id: 1069
+      uniqueId: EditModeTests.dll/Tests/TrainingTests/[EditModeTests][Tests.TrainingTests.Cor_MoveToViewDistance]
+      name: Cor_MoveToViewDistance
+      fullName: Tests.TrainingTests.Cor_MoveToViewDistance
+      resultStatus: 1
+      duration: 0.5242988
+      messages: 
+      output: "Data : System.Collections.ListDictionaryInternal\r\nMessage : {\"httpStatusCode\":400,
+        \"response\": {\n  \"args\": {}, \n  \"data\": \"\", \n  \"files\": {}, \n\"form\":
+        {}, \n  \"headers\": {\n    \"Content-Length\": \"0\", \n    \"Host\": \"httpbin.org\",
+        \n    \"X-Amzn-Trace-Id\": \"Root=1-5f042653-d405786b17a98fd2d1342be7\"\n},
+        \n  \"json\": null, \n  \"origin\": \"115.95.190.174\", \n  \"url\": \"https://httpbin.org/post\"\n}\n}\r\nhttpStatusCode
+        : 400\r\nresponse : {\r\n \"args\": {},\r\n  \"data\": \"\",\r\n  \"files\":
+        {},\r\n  \"form\": {},\r\n \"headers\": {\r\n    \"Content-Length\": \"0\",\r\n   
+        \"Host\": \"httpbin.org\",\r\n   \"X-Amzn-Trace-Id\": \"Root=1-5f042653-d405786b17a98fd2d1342be7\"\r\n},\r\n 
+        \"json\": null,\r\n  \"origin\": \"115.95.190.174\",\r\n  \"url\": \"https://httpbin.org/post\"\r\n}\r\n{\n 
+        \"args\": {}, \n  \"headers\": {\n   \"Host\": \"httpbin.org\", \n    \"X-Amzn-Trace-Id\":
+        \"Root=1-5f042653-0d3450d451d064ae5ddff2d0\"\n}, \n  \"origin\": \"115.95.190.174\",
+        \n  \"url\": \"https://httpbin.org/get\"\n}\n\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1068
+      parentUniqueId: EditModeTests.dll/Tests/[EditModeTests][Tests.TrainingTests][suite]
+    m_ResultText: BandiBrain_Release (1.314s)
+    m_ResultStacktrace: 
+    m_TestListState:
+      scrollPos: {x: 0, y: 41}
+      m_SelectedIDs: 947c7aad
+      m_LastClickedID: -1384481644
+      m_ExpandedIDs: b09d1c8564b4dc891c24c18e5446f58e98dce291df48bba4947c7aad84ec67c28a81e2cc055973dd77aa10e773c5eeebdd6e3aefc0d0e6019ebc4b024ea4e404bf3e04207bc1cc21def038261407b53b8359db413a7ac54add254357d556df645fa79367c581fa766fbae07effffff7f
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    m_TestRunnerUIFilter:
+      PassedHidden: 0
+      FailedHidden: 0
+      NotRunHidden: 0
+      m_SearchString: 
+      selectedCategoryMask: 0
+      availableCategories:
+      - Uncategorized
+--- !u!114 &13
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 14}
+  - {fileID: 17}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 462
+    width: 1563
+    height: 485
+  m_MinSize: {x: 203, y: 121}
+  m_MaxSize: {x: 8003, y: 4021}
+  vertical: 0
+  controlID: 135
+--- !u!114 &14
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: ConsoleWindow
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 819
+    height: 485
+  m_MinSize: {x: 101, y: 121}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 16}
+  m_Panes:
+  - {fileID: 15}
+  - {fileID: 16}
+  m_Selected: 1
+  m_LastSelected: 0
+--- !u!114 &15
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_TitleContent:
+    m_Text: Project
+    m_Image: {fileID: -5467254957812901981, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 535
+    width: 818
+    height: 464
+  m_ViewDataDictionary: {fileID: 0}
+  m_SearchFilter:
+    m_NameFilter: 
+    m_ClassNames: []
+    m_AssetLabels: []
+    m_AssetBundleNames: []
+    m_VersionControlStates: []
+    m_SoftLockControlStates: []
+    m_ReferencingInstanceIDs: 
+    m_SceneHandles: 
+    m_ShowAllHits: 0
+    m_SkipHidden: 0
+    m_SearchArea: 1
+    m_Folders:
+    - Assets/Scripts
+  m_ViewMode: 1
+  m_StartGridSize: 16
+  m_LastFolders:
+  - Assets/Scripts
+  m_LastFoldersGridSize: 16
+  m_LastProjectPath: C:\UnityProj\SampleProject
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 02360000
+    m_LastClickedID: 13826
+    m_ExpandedIDs: 00000000e6350000ee350000f235000000ca9a3b
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 14}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_AssetTreeState:
+    scrollPos: {x: 0, y: 2295}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 00000000e6350000e8350000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_ListAreaState:
+    m_SelectedInstanceIDs: 0ab0ffff
+    m_LastClickedInstanceID: -20470
+    m_HadKeyboardFocusLastEvent: 0
+    m_ExpandedInstanceIDs: c6230000d867000054d80000cabe00007a5b0200907e000058660000bac00000a86b00006c68000078370000fa670000e440000092d3f2fff24700006e070000ee610000343100007a680000164d0000243b0000a6500000ec150100bc7200007884000090520000b05a00006e610000e2310000ba550000e4330000e0360000c0a50000aca50000caa50000d4a50000b6a5000090650100bc360000a4990000ec370000ce310700da310700c642000014400000ac3b00006c40000018420000123d000032370000083c00002e3c0000ae330000383600008c340000663700000e380000e27e00000000000056420000a23f000060360000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 14}
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+    m_NewAssetIndexInList: -1
+    m_ScrollPosition: {x: 0, y: 0}
+    m_GridSize: 16
+  m_SkipHiddenPackages: 0
+  m_DirectoriesAreaWidth: 279
+--- !u!114 &16
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12003, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Console
+    m_Image: {fileID: -4327648978806127646, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 535
+    width: 818
+    height: 464
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &17
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 819
+    y: 0
+    width: 744
+    height: 485
+  m_MinSize: {x: 102, y: 121}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 2}
+  m_Panes:
+  - {fileID: 2}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &18
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: InspectorWindow
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 1563
+    y: 0
+    width: 357
+    height: 947
+  m_MinSize: {x: 275, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 19}
+  m_Panes:
+  - {fileID: 19}
+  - {fileID: 20}
+  - {fileID: 21}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &19
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 275, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Inspector
+    m_Image: {fileID: -2667387946076563598, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1563
+    y: 73
+    width: 356
+    height: 926
+  m_ViewDataDictionary: {fileID: 0}
+  m_OpenAddComponentMenu: 0
+  m_ObjectsLockedBeforeSerialization: []
+  m_InstanceIDsLockedBeforeSerialization: 
+  m_LockTracker:
+    m_IsLocked: 0
+  m_PreviewResizer:
+    m_CachedPref: 151
+    m_ControlHash: 1412526313
+    m_PrefName: Preview_InspectorPreview
+  m_PreviewWindow: {fileID: 0}
+  m_LastInspectedObjectInstanceID: -1
+  m_LastVerticalScrollValue: 0
+--- !u!114 &20
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12079, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 390, y: 390}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Lighting
+    m_Image: {fileID: -1347227620855488341, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 3376
+    y: 73
+    width: 462
+    height: 928
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &21
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12157, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Services
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1456
+    y: 73
+    width: 463
+    height: 926
+  m_ViewDataDictionary: {fileID: 0}
+  m_InitialOpenURL: https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
+  m_GlobalObjectTypeName: 
+  m_RegisteredViewURLs:
+  - https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
+  - https://public-cdn.cloud.unity3d.com/editor/production/cloud/collab
+  - file://C:/Users/user/AppData/Roaming/Unity/Packages/node_modules/unityeditor-cloud-hub/dist/index.html?failure=unity_connect
+  m_RegisteredViewInstances:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
